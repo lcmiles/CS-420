@@ -1,0 +1,18 @@
+# Assignment 1
+
+## Functionality
+
+Create a simple JavaFX window that allows users to choose one of 
+two selections from a drop-down menu, then select or delete them.
+The selections and deletions should be shown in a messages text area
+displaying what option was selected or deleted.
+
+## Files
+
+### app.java
+Creates stage, scene, containers, buttons, and text area. Responsible
+for the functionality of the buttons, as well as appending the text area.
+
+## Screenshots
+
+![Screenshot (9).png]()

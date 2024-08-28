@@ -46,7 +46,7 @@ public class app extends Application {
         layout.setPadding(new Insets(10));
         layout.setAlignment(Pos.CENTER);
 
-        Scene scene = new Scene(layout, 300, 250);
+        Scene scene = new Scene(layout, 300, 400);
         primaryStage.setTitle("Dashboard");
         primaryStage.setScene(scene);
         primaryStage.show();

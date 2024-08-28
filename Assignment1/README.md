@@ -20,3 +20,10 @@ for the functionality of the buttons, as well as appending the text area.
 ![Screenshot (8).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(8).png?raw=true)
 
 ![Screenshot (10).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(10).png?raw=true)
+
+## Sources
+
+https://jenkov.com/tutorials/javafx/combobox.html
+https://stackoverflow.com/questions/29673188/appending-text-into-textarea
+https://www.youtube.com/watch?v=K3CenJ2bMok
+https://chatgpt.com/share/ec959ae1-f841-4573-8116-1faaa0baa30f

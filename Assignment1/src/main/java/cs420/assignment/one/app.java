@@ -1,4 +1,4 @@
-package com.example.assignment1;
+package cs420.assignment.one;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

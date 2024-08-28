@@ -11,6 +11,6 @@ module com.example.assignment1 {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.assignment1 to javafx.fxml;
-    exports com.example.assignment1;
+    opens cs420.assignment.one to javafx.fxml;
+    exports cs420.assignment.one;
 }

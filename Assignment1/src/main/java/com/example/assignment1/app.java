@@ -14,10 +14,16 @@ public class app extends Application {
 
     @Override
     public void start(Stage primaryStage) {
+
+        //creates container for selection
         ComboBox<String> comboBox = new ComboBox<>();
         comboBox.getItems().addAll("option 1", "option 2");
+
+        //creates textarea for status messages
         TextArea textArea = new TextArea();
         textArea.setEditable(false);
+
+        //creates buttons
         Button selectButton = new Button("Select");
         Button deleteButton = new Button("Delete");
         selectButton.setOnAction(event -> {
@@ -27,6 +33,7 @@ public class app extends Application {
             }
         });
 
+        //adds functionality to buttons
         deleteButton.setOnAction(event -> {
             String selectedOption = comboBox.getSelectionModel().getSelectedItem();
             if (selectedOption!= null) {
@@ -34,6 +41,7 @@ public class app extends Application {
             }
         });
 
+        //creates the layout
         VBox layout = new VBox(10);
         layout.getChildren().addAll(
                 new Label("Select an option:"),
@@ -46,6 +54,7 @@ public class app extends Application {
         layout.setPadding(new Insets(10));
         layout.setAlignment(Pos.CENTER);
 
+        //creates the scene and stage
         Scene scene = new Scene(layout, 300, 400);
         primaryStage.setTitle("Dashboard");
         primaryStage.setScene(scene);

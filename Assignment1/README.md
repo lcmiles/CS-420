@@ -15,4 +15,8 @@ for the functionality of the buttons, as well as appending the text area.
 
 ## Screenshots
 
-![Screenshot (9).png]()
+![Screenshot (9).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(9).png?raw=true)
+
+![Screenshot (8).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(8).png?raw=true)
+
+![Screenshot (10).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(10).png?raw=true)

@@ -1,0 +1,52 @@
+!SESSION 2024-09-03 11:20:19.290 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:20:22.470
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:20:46.119
+!MESSAGE Logback config file: /Users/loganmiles/Library/CloudStorage/OneDrive-UAB-TheUniversityofAlabamaatBirmingham/UAB Files/FA 2024/CS-420/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-03 11:21:34.193 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:21:36.479
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:21:38.161
+!MESSAGE Logback config file: /Users/loganmiles/Library/CloudStorage/OneDrive-UAB-TheUniversityofAlabamaatBirmingham/UAB Files/FA 2024/CS-420/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-03 11:24:26.706 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:24:29.441
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:24:31.242
+!MESSAGE Logback config file: /Users/loganmiles/Library/CloudStorage/OneDrive-UAB-TheUniversityofAlabamaatBirmingham/UAB Files/FA 2024/CS-420/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-03 11:26:56.980 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/loganmiles/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:27:00.364
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-03 11:27:03.079
+!MESSAGE Logback config file: /Users/loganmiles/Library/CloudStorage/OneDrive-UAB-TheUniversityofAlabamaatBirmingham/UAB Files/FA 2024/CS-420/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml

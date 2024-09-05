@@ -27,3 +27,5 @@ https://jenkov.com/tutorials/javafx/combobox.html
 https://stackoverflow.com/questions/29673188/appending-text-into-textarea
 https://www.youtube.com/watch?v=K3CenJ2bMok
 https://chatgpt.com/share/ec959ae1-f841-4573-8116-1faaa0baa30f
+https://www.youtube.com/watch?v=PPwVwpdYFeU
+https://www.youtube.com/watch?v=LMdjhuYSrqg

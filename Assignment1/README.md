@@ -10,8 +10,15 @@ displaying what option was selected or deleted.
 ## Files
 
 ### app.java
+
 Creates stage, scene, containers, buttons, and text area. Responsible
 for the functionality of the buttons, as well as appending the text area.
+
+### Deployment Instructions
+
+I used IntelliJ Community Edition to write the code for this project. In order
+to deploy it locally on your machine. You will first need to pull the files from git,
+then run the "mvnw" shell script to build the maven project.
 
 ## Screenshots
 

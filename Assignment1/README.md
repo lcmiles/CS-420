@@ -22,11 +22,7 @@ then run the "mvnw" shell script to build the maven project.
 
 ## Screenshots
 
-![Screenshot (9).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(9).png?raw=true)
 
-![Screenshot (8).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(8).png?raw=true)
-
-![Screenshot (10).png](https://github.com/lcmiles/CS-420/blob/main/Assignment1/Screenshot%20(10).png?raw=true)
 
 ## Sources
 

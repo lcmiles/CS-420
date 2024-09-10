@@ -5,32 +5,25 @@
 <?import javafx.scene.control.SplitPane?>
 <?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.layout.VBox?>
 
-<VBox xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1"
-      fx:controller="cs420.assignment1.AppController">
-    <children>
-        <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0">
-            <children>
-                <SplitPane dividerPositions="0.5" layoutX="207.0" layoutY="105.0" prefHeight="400.0" prefWidth="600.0"
-                           AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-                    <items>
-                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
-                            <children>
-                                <ComboBox fx:id="comboBox" layoutX="14.0" layoutY="27.0" prefHeight="26.0" prefWidth="194.0" promptText="Options"/>
-                                <Button fx:id="select" layoutX="228.0" layoutY="27.0" mnemonicParsing="false" text="Select" onAction="#handleSelect"/>
-                                <Button fx:id="delete" layoutX="227.0" layoutY="69.0" mnemonicParsing="false" text="Delete" onAction="#handleDelete"/>
-                            </children>
-                        </AnchorPane>
-                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
-                            <children>
-                                <TextArea fx:id="textArea" layoutX="30.0" layoutY="71.0" prefHeight="398.0" prefWidth="295.0"
-                                          AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
-                            </children>
-                        </AnchorPane>
-                    </items>
-                </SplitPane>
-            </children>
-        </AnchorPane>
-    </children>
-</VBox>
+
+  <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cs420.assignment1.AppController">
+      <children>
+          <SplitPane dividerPositions="0.5" layoutX="207.0" layoutY="105.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+              <items>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                      <children>
+                          <ComboBox fx:id="comboBox" layoutX="14.0" layoutY="27.0" prefHeight="26.0" prefWidth="194.0" promptText="Options" />
+                          <Button fx:id="select" layoutX="228.0" layoutY="27.0" mnemonicParsing="false" onAction="#handleSelect" text="Select" />
+                          <Button fx:id="delete" layoutX="227.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleDelete" text="Delete" />
+                      </children>
+                  </AnchorPane>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                      <children>
+                          <TextArea fx:id="textArea" layoutX="30.0" layoutY="71.0" prefHeight="398.0" prefWidth="295.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                      </children>
+                  </AnchorPane>
+              </items>
+          </SplitPane>
+      </children>
+  </AnchorPane>
